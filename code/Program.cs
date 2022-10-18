@@ -21,6 +21,8 @@ namespace math_quizzer
             {
                 int score = 0;
                 int total = 5;
+                var watch = new System.Diagnostics.Stopwatch();
+                watch.Start();
                 for (int i = 0; i < total; i++)
                 {
                     Random rand = new Random();
@@ -61,6 +63,11 @@ namespace math_quizzer
                             break;
                     }
                 }
+                watch.Stop();
+                var time_taken = watch.Elapsed;
+                int time_elapsed = (time_taken.Minutes * 60) + time_taken.Seconds;
+                Console.WriteLine("Your final score is {0}/{1}", score, total);
+                Console.WriteLine("Time taken: {0} seconds", time_elapsed);
                 Console.WriteLine("would you like to play again [Y or N]");
                 string play_again = Console.ReadLine().ToUpper();
                 if (play_again == "N")
