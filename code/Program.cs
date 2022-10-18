@@ -92,18 +92,21 @@ namespace math_quizzer
 
             Console.ResetColor();
         }
+        // Output statements for wrong answer
         static void wrong_answer(int score, int total)
         {
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Wrong Answer! your score is {0}/{1}", score, total);
             Console.ResetColor();
         }
+        // Output statements for right answer
         static void right_answer(int score, int total)
         {
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Right Answer! your score is {0}/{1}", score, total);
             Console.ResetColor();
         }
+        // Output interface function
         static int output(bool check, int score, int total)
         {
             if (check)

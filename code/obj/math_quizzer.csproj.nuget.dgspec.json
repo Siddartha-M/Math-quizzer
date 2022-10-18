@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mssid\\source\\repos\\math_quizzer\\math_quizzer.csproj": {}
+    "C:\\Siddartha\\Columbia\\Summer_internship\\Math-quizzer\\code\\math_quizzer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mssid\\source\\repos\\math_quizzer\\math_quizzer.csproj": {
+    "C:\\Siddartha\\Columbia\\Summer_internship\\Math-quizzer\\code\\math_quizzer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mssid\\source\\repos\\math_quizzer\\math_quizzer.csproj",
+        "projectUniqueName": "C:\\Siddartha\\Columbia\\Summer_internship\\Math-quizzer\\code\\math_quizzer.csproj",
         "projectName": "math_quizzer",
-        "projectPath": "C:\\Users\\mssid\\source\\repos\\math_quizzer\\math_quizzer.csproj",
+        "projectPath": "C:\\Siddartha\\Columbia\\Summer_internship\\Math-quizzer\\code\\math_quizzer.csproj",
         "packagesPath": "C:\\Users\\mssid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mssid\\source\\repos\\math_quizzer\\obj\\",
+        "outputPath": "C:\\Siddartha\\Columbia\\Summer_internship\\Math-quizzer\\code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mssid\\AppData\\Roaming\\NuGet\\NuGet.Config",
