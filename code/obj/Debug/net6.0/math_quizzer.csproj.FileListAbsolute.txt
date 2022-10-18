@@ -1,0 +1,15 @@
+C:\Users\mssid\source\repos\math_quizzer\bin\Debug\net6.0\math_quizzer.exe
+C:\Users\mssid\source\repos\math_quizzer\bin\Debug\net6.0\math_quizzer.deps.json
+C:\Users\mssid\source\repos\math_quizzer\bin\Debug\net6.0\math_quizzer.runtimeconfig.json
+C:\Users\mssid\source\repos\math_quizzer\bin\Debug\net6.0\math_quizzer.dll
+C:\Users\mssid\source\repos\math_quizzer\bin\Debug\net6.0\math_quizzer.pdb
+C:\Users\mssid\source\repos\math_quizzer\obj\Debug\net6.0\math_quizzer.csproj.AssemblyReference.cache
+C:\Users\mssid\source\repos\math_quizzer\obj\Debug\net6.0\math_quizzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mssid\source\repos\math_quizzer\obj\Debug\net6.0\math_quizzer.AssemblyInfoInputs.cache
+C:\Users\mssid\source\repos\math_quizzer\obj\Debug\net6.0\math_quizzer.AssemblyInfo.cs
+C:\Users\mssid\source\repos\math_quizzer\obj\Debug\net6.0\math_quizzer.csproj.CoreCompileInputs.cache
+C:\Users\mssid\source\repos\math_quizzer\obj\Debug\net6.0\math_quizzer.dll
+C:\Users\mssid\source\repos\math_quizzer\obj\Debug\net6.0\refint\math_quizzer.dll
+C:\Users\mssid\source\repos\math_quizzer\obj\Debug\net6.0\math_quizzer.pdb
+C:\Users\mssid\source\repos\math_quizzer\obj\Debug\net6.0\math_quizzer.genruntimeconfig.cache
+C:\Users\mssid\source\repos\math_quizzer\obj\Debug\net6.0\ref\math_quizzer.dll
